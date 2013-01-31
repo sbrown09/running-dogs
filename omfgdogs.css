@@ -1,0 +1,11 @@
+body {
+	background-repeat:repeat;
+}
+
+#link2real {
+	font-size: xx-large;
+	color: white;
+	position:absolute;
+	bottom:0;
+	right:0;
+}
